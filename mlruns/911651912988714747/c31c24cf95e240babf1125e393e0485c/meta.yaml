@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/911651912988714747/c31c24cf95e240babf1125e393e0485c/artifacts
+end_time: 1751182670402
+entry_point_name: ''
+experiment_id: '911651912988714747'
+lifecycle_stage: active
+run_id: c31c24cf95e240babf1125e393e0485c
+run_name: amusing-hawk-542
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1751182656359
+status: 3
+tags: []
+user_id: shaik

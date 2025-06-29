@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/911651912988714747/23e0c4bfb75f488fb24c349431f9fa2a/artifacts
+end_time: 1751182489354
+entry_point_name: ''
+experiment_id: '911651912988714747'
+lifecycle_stage: active
+run_id: 23e0c4bfb75f488fb24c349431f9fa2a
+run_name: crawling-squid-386
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1751182469670
+status: 3
+tags: []
+user_id: shaik
