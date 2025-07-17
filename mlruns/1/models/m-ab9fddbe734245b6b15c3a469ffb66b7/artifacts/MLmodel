@@ -1,0 +1,22 @@
+artifact_path: file:///C:/Users/shaik/Desktop/yt-comment-sentiment-analysis/mlruns/1/models/m-ab9fddbe734245b6b15c3a469ffb66b7/artifacts
+flavors:
+  python_function:
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.sklearn
+    model_path: model.pkl
+    predict_fn: predict
+    python_version: 3.10.18
+  sklearn:
+    code: null
+    pickled_model: model.pkl
+    serialization_format: cloudpickle
+    sklearn_version: 1.7.0
+mlflow_version: 3.1.1
+model_id: m-ab9fddbe734245b6b15c3a469ffb66b7
+model_size_bytes: 4119978
+model_uuid: m-ab9fddbe734245b6b15c3a469ffb66b7
+prompts: null
+run_id: b27fd5f27fb74c0a9878955141d116be
+utc_time_created: '2025-07-17 06:16:27.412344'
